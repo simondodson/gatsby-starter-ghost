@@ -1,9 +1,10 @@
 {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://pedantic-raman-1aa262.ghost.io",
+    "contentApiKey": "c1a2ad93-9bbb-4fb7-ba37-ca0fb040dd6d
+"
 },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://pedantic-raman-1aa262.ghost.io",
+    "contentApiKey": "c1a2ad93-9bbb-4fb7-ba37-ca0fb040dd6d"
   }
 }
